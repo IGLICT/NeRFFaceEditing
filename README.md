@@ -9,7 +9,7 @@ Abstract: *Recent methods for synthesizing 3D-aware face images have achieved ra
 
 [Project Page](http://geometrylearning.com/NeRFFaceEditing/) | [Paper Arxiv](https://arxiv.org/pdf/2211.07968.pdf)
 
-**&#9733;&#9733;&#9733; NEW: Updated implementation of NeRFFaceEditing on the official EG3D has been [released](https://github.com/IGLICT/NeRFFaceEditing/tree/updated). Certain training strategies are modified. &#9733;&#9733;&#9733;**
+**&#9733;&#9733;&#9733; NEW: Please find our extended version published on IEEE TPAMI 2025 [here](https://github.com/IGLICT/NeRFFaceEditing/tree/updated). &#9733;&#9733;&#9733;**
 
 ## Requirements
 * The code is tested only on the Linux platform.
